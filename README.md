@@ -88,4 +88,3 @@ After build, run `./conductor_tests`. It includes:
 
 ## License
 MIT License—free to use and modify.
-```
